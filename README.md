@@ -11,10 +11,8 @@ Você pode ver uma demonstração deste projeto [aqui](https://pokedexdemodio.ne
 1. Clone este repositório:
 
    ```bash
-   git clone URL_DO_SEU_REPOSITÓRIO
+   git clone (https://github.com/BeatrizOliveiraFerreira/pokedex)
 Abra o arquivo index.html no seu navegador para executar a aplicação.
-
-Clique no botão "clique aqui" para alternar entre o modo claro e o modo escuro.
 
 Você pode carregar mais Pokémons clicando no botão "Load More".
 
