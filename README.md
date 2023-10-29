@@ -34,4 +34,3 @@ Licença
 Este projeto é distribuído sob a licença SUA LICENÇA.
 
 
-Lembre-se de substituir `URL_DA_SUA_DEMONSTRAÇÃO`, `URL_DO_SEU_REPOSITÓRIO`, `SUA LICENÇA`, `SEU NOME` e `URL_DO_SEU_PERFIL_DO_GITHUB` pelos valores apropriados. Após criar o arquivo README.md com esse conteúdo, você pode fazer o upload para a raiz do seu repositório no GitHub. Isso fornecerá informações úteis sobre o projeto aos visitantes do seu repositório.
